@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT
+// Copyright (c) 2026 Rafael Arciniegas
 import { connection } from "next/server";
 
 export default async function Done() {
