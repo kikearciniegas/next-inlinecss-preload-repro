@@ -1,6 +1,7 @@
 {
   "name": "next-inlinecss-preload-repro",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
